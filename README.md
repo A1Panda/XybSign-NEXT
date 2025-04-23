@@ -2,7 +2,7 @@
 
 # xybSign
 ## 修复校友帮更新后无法使用的问题,感谢原作者[开源项目](https://github.com/CncCbz/xybSign) 
-# 为了方式被乱用如果需要请添加[交流群：511802473](https://qm.qq.com/cgi-bin/qm/qr?k=JAHgObdCF7yvxxVYGv2Yy4yJ4c-ETJP0&jump_from=webapi&authKey=MT6cIYlwur8T353dJVaWdGRjznHUDz68yELc1JJY/V8HJCPD+2TAT2hE9BH+DoX9)
+# 为了防止被乱用如果需要请添加[交流群：511802473](https://qm.qq.com/cgi-bin/qm/qr?k=JAHgObdCF7yvxxVYGv2Yy4yJ4c-ETJP0&jump_from=webapi&authKey=MT6cIYlwur8T353dJVaWdGRjznHUDz68yELc1JJY/V8HJCPD+2TAT2hE9BH+DoX9)
  
 校友邦 多用户 自动签到(上传图片)、填写周报
 
